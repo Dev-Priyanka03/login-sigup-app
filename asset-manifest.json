@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-sigup-app/static/css/main.5c69cb53.css",
+    "main.js": "/login-sigup-app/static/js/main.06f05157.js",
+    "index.html": "/login-sigup-app/index.html",
+    "main.5c69cb53.css.map": "/login-sigup-app/static/css/main.5c69cb53.css.map",
+    "main.06f05157.js.map": "/login-sigup-app/static/js/main.06f05157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c69cb53.css",
+    "static/js/main.06f05157.js"
+  ]
+}
